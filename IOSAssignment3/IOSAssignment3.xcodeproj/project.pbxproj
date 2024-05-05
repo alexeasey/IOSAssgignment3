@@ -16,6 +16,7 @@
 		063FC5E62BE74A6F0081F9ED /* IOSAssignment3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063FC5E52BE74A6F0081F9ED /* IOSAssignment3Tests.swift */; };
 		063FC5F02BE74A6F0081F9ED /* IOSAssignment3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063FC5EF2BE74A6F0081F9ED /* IOSAssignment3UITests.swift */; };
 		063FC5F22BE74A6F0081F9ED /* IOSAssignment3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063FC5F12BE74A6F0081F9ED /* IOSAssignment3UITestsLaunchTests.swift */; };
+		063FC6032BE77D670081F9ED /* CreateJobsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063FC6022BE77D670081F9ED /* CreateJobsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		063FC5EB2BE74A6F0081F9ED /* IOSAssignment3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOSAssignment3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		063FC5EF2BE74A6F0081F9ED /* IOSAssignment3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSAssignment3UITests.swift; sourceTree = "<group>"; };
 		063FC5F12BE74A6F0081F9ED /* IOSAssignment3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSAssignment3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		063FC6022BE77D670081F9ED /* CreateJobsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateJobsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				063FC5CE2BE74A6E0081F9ED /* AppDelegate.swift */,
 				063FC5D02BE74A6E0081F9ED /* SceneDelegate.swift */,
 				063FC5D22BE74A6E0081F9ED /* ViewController.swift */,
+				063FC6022BE77D670081F9ED /* CreateJobsViewController.swift */,
 				063FC5D42BE74A6E0081F9ED /* Main.storyboard */,
 				063FC5D72BE74A6F0081F9ED /* Assets.xcassets */,
 				063FC5D92BE74A6F0081F9ED /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				063FC5D32BE74A6E0081F9ED /* ViewController.swift in Sources */,
 				063FC5CF2BE74A6E0081F9ED /* AppDelegate.swift in Sources */,
+				063FC6032BE77D670081F9ED /* CreateJobsViewController.swift in Sources */,
 				063FC5D12BE74A6E0081F9ED /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
