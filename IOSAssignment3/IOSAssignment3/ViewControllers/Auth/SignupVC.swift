@@ -38,6 +38,7 @@ class SignupVC: BaseClass {
         
         guard let email = emailTF.text, let password = passwordTF.text, let name = nameTF.text,
               !name.isEmpty , !email.isEmpty, !password.isEmpty , email.isValidEmail else {
+            self.stopLoading()
             showAlert(title:AlertConstants.Error, msg: AlertConstants.FillAll, btn: AlertConstants.Ok)
             return
         }
@@ -73,6 +74,9 @@ class SignupVC: BaseClass {
                     
                     DataManager.shared.saveUID(uid: uid)
                     DataManager.shared.saveParams(parms: params)
+                    self.stopLoading()
+                    self.showAlert(title: AlertConstants.Success, msg: "Sign up successful", btn: AlertConstants.Ok)
+
                 }
             }
         }
