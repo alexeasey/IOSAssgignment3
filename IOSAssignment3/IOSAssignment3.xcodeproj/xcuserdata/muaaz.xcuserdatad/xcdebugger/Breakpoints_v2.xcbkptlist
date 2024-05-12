@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2530D4BB-15A4-4940-9366-3169ED5861FF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08DC0FC1-73B2-4B99-9372-886C20CB40FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSAssignment3/ViewControllers/Basic/ProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchUserInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08DC0FC1-73B2-4B99-9372-886C20CB40FE - b654b654ba2bda0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in IOSAssignment3.ProfileVC.fetchUserInfo() -&gt; ()"
+                  moduleName = "IOSAssignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muaaz/Documents/Repos/IOSAssgignment3/IOSAssignment3/IOSAssignment3/ViewControllers/Basic/ProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+               <Location
+                  uuid = "08DC0FC1-73B2-4B99-9372-886C20CB40FE - b654b654ba2bda0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in IOSAssignment3.ProfileVC.fetchUserInfo() -&gt; ()"
+                  moduleName = "IOSAssignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muaaz/Documents/Repos/IOSAssgignment3/IOSAssignment3/IOSAssignment3/ViewControllers/Basic/ProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EF00223-3EFC-4C4B-8B99-9ABB3ED4EF75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSAssignment3/ViewControllers/Basic/ProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchUserInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
